@@ -2,7 +2,7 @@
 public class Application {
 
 	public static void main(String[] args) {
-		Animal a = new Animal();
+		Animal a = new Tijger();
 		a.setLegs(12);
 		a.setName("LegsMania");
 		a.setType("Weird");

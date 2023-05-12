@@ -2,10 +2,9 @@
 public abstract class Animal {
 	
 	protected String name;
-	
 	protected String type;
-	
 	protected int legs;
+	
 	
 	public abstract void makeSound();
 
