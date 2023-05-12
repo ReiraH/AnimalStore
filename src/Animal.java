@@ -32,5 +32,9 @@ public abstract class Animal {
 	public void setLegs(int legs) {
 		this.legs = legs;
 	}
+	
+	public void jump() {
+		// Dieren kunnen niet allemaal springen
+	}
 
 }
