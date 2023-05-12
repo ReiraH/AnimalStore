@@ -35,6 +35,9 @@ public abstract class Animal {
 	
 	public void jump() {
 		// Dieren kunnen niet allemaal springen
+		
+		
+		//Rhea heet hier als test een bericht gezet voor als branch featureRhea.
 	}
 
 }
