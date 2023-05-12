@@ -40,6 +40,8 @@ public abstract class Animal {
 		//Rhea heet hier als test een bericht gezet voor als branch featureRhea.
 		
 		//Deze test via eclipse pushen!
+		
+		// Testtest 
 	}
 
 }
